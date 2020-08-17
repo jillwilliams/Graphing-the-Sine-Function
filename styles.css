@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: aqua;
+    margin: 25px 25px 45px 25px;
+    font-family: "Pangolin";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+}
+h1 {
+        font-size: 2rem;
+        text-align: center;
+}
+#pic1 {
+    width: 50%;
+    height: auto;
+    margin: 15px 25% 15px 25%;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+}
+#pic2, #pic4 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35% 15px 35%;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+}
+#pic3, #pic5 {
+    width: 60%;
+    height: auto;
+    margin: 15px 20% 15px 20%;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+}
+iframe {
+    margin: 15px 35% 15px 35%;
+    border: 1px black solid;
+    outline: 2px aqua solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
